@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manisha-pal
-- 👀 I’m interested in ..Fullstack Development
+- 👋 Hi, I’m Manisha Pal
+- 👀 I’m interested in Data Sciences
 - 🌱 I’m currently learning ...AI Machine Learning and Cloud Computing
 - 📫 How to reach me ... mail @ manishapal1682@gmail.com
