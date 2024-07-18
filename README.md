@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Manisha Pal
-- 👀 I’m interested in Data Sciences
-- 🌱 I’m currently learning ...AI Machine Learning and Cloud Computing
-- 📫 How to reach me ... mail @ manishapal1682@gmail.com
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning AI Machine Learning, Data Sciences and Cloud Computing
+- 📫 To reach me mail @ manishapal1682@gmail.com
